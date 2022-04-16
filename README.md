@@ -8,9 +8,9 @@ DOI: to be announced.
 
 We developed and tested our codes in the following environment:
 
-Apple Mac mini (Intel Core i5, 3GHz, memory 8 GB)
-Fortran 95 Compiler: Absoft Pro Fortran 2020
-Numerical Library: IMSL 2018 Fortran Numerical Libraries
+Apple Mac mini (Intel Core i5, 3GHz, memory 8 GB); 
+Fortran 95 Compiler: Absoft Pro Fortran 2020; 
+Numerical Library: IMSL 2018 Fortran Numerical Libraries.
 
 Three programs and sample data are deposited here. The purposes and functions of each code are given below.
 
