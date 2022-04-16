@@ -252,11 +252,11 @@ program mhdcalc
   !
   write(*,*)'output you want:',alpha,',',snr1
   write(*,*)'simulation output:,',alpha,',',hmnsnr(1,harmonic)
-  write(*,*)'simulation'
+  write(*,*)'SNR of the spectrum reconstructed from the simulated data'
   do i = 1,5
     write(*,*)hmnsnr(i,harmonic)
   end do
-  write(*,*)'SNR for the measured data'
+  write(*,*)'SNR of the spectrum reconstructed from the measured data'
   do i =1,5
     write(*,*) hmnsnr(i,mharmonic)
   end do
