@@ -43,11 +43,11 @@ Additional files
 
 The measured spectral data files are given for the program test. These files are loaded in the above programs and should be placed in the same directory as the executable files.
 
-a1nakaoka.csv
-a2nakaoka.csv
-a3nakaoka.csv
-3a1nakaoka.csv
-3a3nakaoka.csv
+a1nakaoka.csv; 
+a2nakaoka.csv; 
+a3nakaoka.csv; 
+3a1nakaoka.csv; and
+3a3nakaoka.csv.
 
 
 These codes were written by Yamato Mori, Magnetic Resonance Engineering Laboratory, Hokkaido University, Sapporo, Japan.
